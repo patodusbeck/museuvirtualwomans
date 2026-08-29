@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/index", "destination": "/index.html" },
+    { "source": "/mulheres", "destination": "/mulheres.html" },
+    { "source": "/timeline", "destination": "/timeline.html" },
+    { "source": "/sobre", "destination": "/sobre.html" }
+  ]
+}
